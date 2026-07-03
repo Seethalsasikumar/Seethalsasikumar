@@ -4,7 +4,7 @@ Software Engineer → Business Analyst, passionate about data, decision-making, 
 
 🎓 MSc Business Analytics : Operational Research & Risk Analysis — University of Manchester\
 🎓Bachelor’s in Computer Science Engineering — SRM Institute of Science and Technology\
-💼 3+ years enterprise experience at Optum in reporting, data quality, and insight delivery\
+💼 3+ years enterprise experience at Optum in reporting, data quality, and insight delivery
 
 🔭 What I'm Currently Working On
 
@@ -16,7 +16,7 @@ Software Engineer → Business Analyst, passionate about data, decision-making, 
 
 Languages & Querying: Python · R · SQL · Java · Excel (Advanced)\
 Visualization: Tableau · Power BI\
-Cloud & Platforms: GCP · Azure DevOps · SAS · Alteryx\
+Cloud & Platforms: GCP · Azure DevOps · SAS · Altery
 
 
 📫 How to Reach Me\
