@@ -21,5 +21,5 @@ Cloud & Platforms: GCP · Azure DevOps · SAS · Altery
 
 📫 How to Reach Me\
 💼 [LinkedIn](https://www.linkedin.com/in/seethal-sasikumar-13377b1b0/)\
-🌐 Portfolio: coming soon!
+🌐 [Portfolio](https://seethalsasikumarportfolio.netlify.app/)
 
