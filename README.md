@@ -1,6 +1,6 @@
 Hi, I'm Seethal 👋
 
-Software Engineer → Business Analyst, passionate about data, decision-making, and analytics. I bridge technical depth with business strategy, from automating reporting to building predictive models to visualising insight through dashboards that drive real-world decisions.
+Data Engineer → Business Data Analyst, passionate about data, decision-making, and analytics. I bridge technical depth with business strategy, from automating reporting to building predictive models to visualising insight through dashboards that drive real-world decisions.
 
 🎓 MSc Business Analytics : Operational Research & Risk Analysis — University of Manchester\
 🎓Bachelor’s in Computer Science Engineering — SRM Institute of Science and Technology\
@@ -16,10 +16,9 @@ Software Engineer → Business Analyst, passionate about data, decision-making, 
 
 Languages & Querying: Python · R · SQL · Java · Excel (Advanced)\
 Visualization: Tableau · Power BI\
-Cloud & Platforms: GCP · Azure DevOps · SAS · Altery
+Cloud & Platforms: GCP · Azure DevOps · SAS · Alteryx
 
 
 📫 How to Reach Me\
 💼 [LinkedIn](https://www.linkedin.com/in/seethal-sasikumar-13377b1b0/)\
-🌐 [Portfolio](https://seethalsasikumarportfolio.netlify.app/)
 
