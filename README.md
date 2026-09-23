@@ -1,6 +1,6 @@
 Hi, I'm Seethal 👋
 
-Data Engineer → Business Data Analyst, passionate about data, decision-making, and analytics. I bridge technical depth with business strategy, from automating reporting to building predictive models to visualising insight through dashboards that drive real-world decisions.
+Business Data Analyst, passionate about data, decision-making, and analytics. I bridge technical depth with business strategy, from automating reporting to building predictive models to visualising insight through dashboards that drive real-world decisions.
 
 🎓 MSc Business Analytics : Operational Research & Risk Analysis — University of Manchester\
 🎓Bachelor’s in Computer Science Engineering — SRM Institute of Science and Technology\
